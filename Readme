@@ -9,7 +9,7 @@ Automatically generate a professional PDF report summarizing the findings and re
 📁 Repository Contents
 
 01- Data_macro/ — Folder containing input datasets (macroeconomic indicators).
-02- Functions- Data_macro/ — Folder containing Functions.
+02- Function/ — Folder containing Functions.
 03- Output/ — Folder where generated reports are saved.
 
 user_guide__macro risk__.ipynb — Guide JupyterNotebook describes the process to building macroeconomic risk
